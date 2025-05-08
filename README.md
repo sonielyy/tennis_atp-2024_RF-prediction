@@ -54,3 +54,16 @@ Classification Report for 'p1_win':
     accuracy                           0.68       XXX
    macro avg       0.68      0.68      0.68       XXX
 weighted avg       0.68      0.68      0.68       XXX
+```
+
+
+## License
+
+This project includes tennis data compiled by Jeff Sackmann, available at  
+[Tennis Abstract GitHub repository](https://github.com/JeffSackmann), and is licensed under the  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+In other words:  
+- Attribution is required  
+- Commercial use is not permitted  
+- Any derived work must be shared under the same license
