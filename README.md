@@ -4,7 +4,7 @@ This project uses **ATP 2024 tennis match statistics** to predict the winner of 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** `atp_matches_2024.csv`
 - **Reference:** ATP data collected by Jeff Sackmann, available at [Tennis Abstract GitHub repo](https://github.com/JeffSackmann/tennis_atp?tab=readme-ov-file#atp-tennis-rankings-results-and-stats), used under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
@@ -15,7 +15,7 @@ This project uses **ATP 2024 tennis match statistics** to predict the winner of 
 
 ---
 
-## 🛠️ Data Processing
+## Data Processing
 
 - Winners are labeled as `p1`, losers as `p2` to create a consistent feature space.
 - Data augmentation applied by **randomly swapping `p1` and `p2`** features to prevent bias.
@@ -23,7 +23,7 @@ This project uses **ATP 2024 tennis match statistics** to predict the winner of 
 
 ---
 
-## 🤖 Model Details
+## Model Details
 
 - **Model:** `RandomForestClassifier` from `scikit-learn`
 - **Scaling:** `StandardScaler` applied to features
@@ -32,7 +32,7 @@ This project uses **ATP 2024 tennis match statistics** to predict the winner of 
 
 ---
 
-## 📊 Feature Importance
+## Feature Importance
 
 Top 10 most influential features used by the model:
 
@@ -42,7 +42,7 @@ Top 10 most influential features used by the model:
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 ```text
 Classification Report for 'p1_win':
