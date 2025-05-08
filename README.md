@@ -36,9 +36,9 @@ This project uses **ATP 2024 tennis match statistics** to predict the winner of 
 
 ## Feature Importance
 
-Top 10 most influential features used by the model:
+The most influential features used by the model:
 
-![Feature Importance](feature_importance_plot.png)
+![Figure_1](https://github.com/user-attachments/assets/92a0082d-edf6-4a88-b2aa-b9154daaf66e)
 
 *Note: To regenerate this plot, ensure matplotlib is installed and run the full script.*
 
