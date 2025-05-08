@@ -50,12 +50,12 @@ The most influential features used by the model:
 Classification Report for 'p1_win':
               precision    recall  f1-score   support
 
-           0       0.68      0.67      0.67       XXX
-           1       0.68      0.69      0.69       XXX
+           0       0.87      0.88      0.87       450
+           1       0.88      0.86      0.87       443
 
-    accuracy                           0.68       XXX
-   macro avg       0.68      0.68      0.68       XXX
-weighted avg       0.68      0.68      0.68       XXX
+    accuracy                           0.87       893
+   macro avg       0.87      0.87      0.87       893
+weighted avg       0.87      0.87      0.87       893
 ```
 
 
