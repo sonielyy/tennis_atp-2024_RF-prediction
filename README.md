@@ -2,6 +2,8 @@
 
 This project uses **ATP 2024 tennis match statistics** to predict the winner of a match using a **Random Forest Classifier**. The pipeline includes data cleaning, transformation, augmentation, and model training with performance evaluation.
 
+![image](https://github.com/user-attachments/assets/e46e9530-ed06-4ac9-80f9-b9b2593170bd)
+
 ---
 
 ## Dataset
