@@ -38,7 +38,8 @@ This project uses **ATP 2024 tennis match statistics** to predict the winner of 
 
 The most influential features used by the model:
 
-![Figure_1](https://github.com/user-attachments/assets/92a0082d-edf6-4a88-b2aa-b9154daaf66e)
+![Figure_1](https://github.com/user-attachments/assets/87ddaf91-4c89-45ad-b766-b07ca6bcde2f)
+
 
 *Note: To regenerate this plot, ensure matplotlib is installed and run the full script.*
 
