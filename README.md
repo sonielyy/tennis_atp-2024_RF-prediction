@@ -44,7 +44,7 @@ The most influential features used by the model:
 
 ---
 
-## Example Output
+## Accuracy Results
 
 ```text
 Classification Report for 'p1_win':
