@@ -7,7 +7,7 @@ This project uses **ATP 2024 tennis match statistics** to predict the winner of 
 ## 📂 Dataset
 
 - **Source:** `atp_matches_2024.csv`
-- **Reference:** ATP data collected by Jeff Sackmann, available at Tennis Abstract GitHub repo, used under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+- **Reference:** ATP data collected by Jeff Sackmann, available at [Tennis Abstract GitHub repo](https://github.com/JeffSackmann/tennis_atp?tab=readme-ov-file#atp-tennis-rankings-results-and-stats), used under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - **Content:** Match-by-match performance statistics of players (e.g., aces, double faults, serve points).
 - **Preprocessing:**
   - Matches with missing scores or early terminations (`RET`, `W/O`, `ABD`) are removed.
